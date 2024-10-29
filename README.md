@@ -1,4 +1,4 @@
-# webdev-html
+# HTML WebDev
 
 <a href="https://www.html-easy.com/learn/" rel="noopenner noreferrer" target="_blank">
 Excellent Introduction to HTML</a>
